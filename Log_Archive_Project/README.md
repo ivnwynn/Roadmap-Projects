@@ -1,6 +1,6 @@
 # Guide for Using the Archiving Tool
 
-[Project Documentation](https://github.com/ivnwynn/Roadmap-Projects/tree/main/Log_Archive_Project)
+[Project Documentation](https://roadmap.sh/projects/log-archive-tool)
 
 **Note:** Before you run the `.sh` file, you need to add an argument after it.
 
